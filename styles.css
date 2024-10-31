@@ -1,0 +1,12 @@
+Body{
+    background-color:slategray;
+}
+a:hover{
+    color:black;
+}
+a:active{
+    color:green;
+}
+a:visited{
+  color:white;  
+}
